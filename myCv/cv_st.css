@@ -1,0 +1,32 @@
+$blue: #a3d5d3;
+
+body {
+	background: url(cv_s.jpg);
+  background-image: url(cv_s.jpg);
+}
+a
+{
+	background-color:#FFCC66;
+  text-decoration:none;
+	color: green;
+
+}
+li
+{
+  
+	border: 3px blue dashed;
+  background-color: grey;
+}
+a:hover
+{
+	
+	text-decoration:underline;
+	font-style:italic;
+	color:blue;
+}
+
+/*h1:active
+{
+	background-color:orange;
+}*/
+

@@ -1,0 +1,82 @@
+@font-face
+{
+	font-family:"FontleroyBrown";
+	src:url("font/FontleroyBrown-webfont.eot"),
+	    url("font/FontleroyBrown-webfont.woff");
+
+
+}
+section
+{}
+#nav
+{
+	float:left;
+	border-style:groove;
+	border-color:white;
+}
+#sec_body
+{
+	margin-left:250px;
+	margin-right:250px;
+	background-color:grey;
+	border-style:groove;
+	border-color:white;
+	opacity: 0.6;
+	
+}
+
+#tst
+{
+	
+}
+body
+{
+	background-image: url("foto/cv_bg.jpg");
+	background-attachment:fixed;
+	background-repeat :no-repeat;
+	background-size:cover;
+}
+#cv_content
+{
+   background-color:grey;
+   opacity:0.5;
+   font-family: Verdana,"Courier New",Georgia;
+
+
+}
+#pic,h1
+{
+	border-style:double;
+	border-color:white;
+}
+#pic
+{
+	box-shadow:7px 7px 20px yellow; 
+	margin-left: 25px;
+}
+
+h1
+{
+	
+	font-size:3em;
+	text-align:center;
+}
+#self_intro
+{
+
+	font-family:'FontleroyBrown',"Courier New", Verdana;
+	font-size:2em;
+	text-align:justify all;
+}
+p
+{
+	color:white;
+}
+
+h1,ul
+{
+	color:maroon;
+}
+a
+{text-decoration: none;
+color:maroon;}

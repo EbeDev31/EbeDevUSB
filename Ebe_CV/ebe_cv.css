@@ -1,0 +1,140 @@
+body {
+		
+
+		background-color:#278FC4;
+
+
+		
+	}
+
+.profile
+	{
+
+        text-align: center;
+        margin-top: 100px;
+        color: #EADAE4;
+	}
+
+	#name
+	{
+		margin-bottom:0px;
+	}
+
+#role
+	{
+	  margin-top:0px	
+	}
+
+#pf_img
+	{
+		background-color: white;
+
+	}
+#prof_desc
+    {
+
+		max-width: calc(75%);
+		margin-left:12em;
+    }
+
+ nav
+	{
+		display: inline-block;
+		vertical-align:top;
+		position:fixed;
+		margin:1em;
+		background-color: #7F7CAF;
+		padding: 0.3em;
+	}
+
+	.skills,.qualfc,.language,.work_exp
+	{
+		margin-bottom: 10PX;
+		display: inline-block;
+		background-color:#EADAE4;
+        opacity:0.5;
+        text-align: center;
+        margin-left:12em;
+        width: 64em;
+		max-width: calc(75%);
+		
+	}
+
+  
+  .job
+	{
+		margin-bottom: 10PX;
+		background-color:#9FB4C7;
+        margin-left:5em;
+        margin-right:5em;
+        width: 50em;
+		max-width: calc(75%);
+		text-align: left;
+
+	}
+    #job_title
+    {
+    	text-align: center;
+    }
+	#period
+	{
+
+		display: inline-block;
+		background-color:yellow;
+
+        text-align: left;
+       
+		 margin-left: 3em;
+	}
+
+#comp
+    {
+    	vertical-align:  top;
+    	display: inline-block;
+    	margin-left: 5em;
+    }
+	#desc
+	{
+
+		width: 20em;
+		background-color:red;
+		
+	}
+#lang
+    {
+    	margin-bottom: 10PX;
+		background-color:#9FB4C7;
+        margin-left:5em;
+        margin-right:5em;
+        width: 50em;
+		max-width: calc(75%);
+		text-align: left;
+    }
+#lang_lvs,#lan
+	{
+	   background-color: #EBBAB9;
+	   display: inline-block;
+	}
+
+#lan
+	{
+	   width:calc(20%);
+	   vertical-align: top;
+	   margin-right:0;
+	}
+#lang_lvs
+	{
+	   width:0px;
+			padding: 0;
+			height: 2em;
+			list-style: none;
+
+	 	/*margin-left: 16em;*/
+	}
+#basic,#good,#fluent,#m_tongue
+	 {
+		display: inline-block;
+		padding-left:1em;
+		line-height:normal;
+
+    }
